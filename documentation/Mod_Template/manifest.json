@@ -1,9 +1,9 @@
 {
-    "name": "MOD NAME GOES HERE",
-    "description": "MOD DESCRIPTION GOES HERE",
-    "developer":
+    "name": "will meet again",
+    "description": "HAHAHAHA",
+    "developer":mateuz-crypto
     {
-        "name": "DEVELOPER NAME GOES HERE"
+        "name": ""
     },
     "icons":
     {
@@ -17,7 +17,7 @@
         {
             "background_music":
             [
-                "music/track_1.mp3",
+                "https://youtu.be/QFmJ2ygTgXk,
                 "music/track_2.mp3",
                 "music/track_3.mp3",
                 "music/track_4.mp3"
