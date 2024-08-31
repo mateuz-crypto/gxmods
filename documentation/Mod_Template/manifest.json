@@ -1,9 +1,9 @@
 {
-    "name": "MOD NAME GOES HERE",
-    "description": "MOD DESCRIPTION GOES HERE",
+    "name": "will meet again",
+    "description": "just sing it",
     "developer":
     {
-        "name": "DEVELOPER NAME GOES HERE"
+        "name": "mateus-cryptos"
     },
     "icons":
     {
@@ -17,7 +17,7 @@
         {
             "background_music":
             [
-                "music/track_1.mp3",
+                "https://youtu.be/QFmJ2ygTgXk",
                 "music/track_2.mp3",
                 "music/track_3.mp3",
                 "music/track_4.mp3"
